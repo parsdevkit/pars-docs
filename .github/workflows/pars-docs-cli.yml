@@ -1,0 +1,34 @@
+# name: Pars CLI
+
+# on:
+#   push:
+#     branches:
+#       - main
+
+# jobs:
+#   deploy-documents:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+
+#       - name: Get Tag Name
+#         id: get_tag_name
+#         run: |
+#           echo "Tag name is: ${{ github.ref }}"
+#           TAG_NAME=$(echo "${{ github.ref }}" | sed 's/refs\/tags\///')
+#           echo "tag_name=$TAG_NAME" >> $GITHUB_ENV
+
+#       - uses: actions/setup-python@v4
+#         with:
+#           python-version: 3.10.6
+#       - name: Install Dependencies
+#         run: |
+#           pip install -r docs/requirements.txt
+#       - name: Setup Docs Deploy
+#         run: |
+#           git config --global user.name "Docs Deploy"
+#           git config --global user.email "docs.deploy@example.co.uk"
+#       - name: Build Docs Website
+#         working-directory: ./docs
+#         run: | 
+#           mike deploy --allow-empty --push --update-aliases ${{ env.tag_name }} latest
