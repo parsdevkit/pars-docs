@@ -2,8 +2,8 @@ site_name: Pars Documentation
 site_url: https://docs.parsdevkit.net/
 site_description: Pars Documentation
 repo_url: https://github.com/parsdevkit/pars
-repo_name: parsdevkit/pars
-edit_uri: edit/main/docs/contents/
+repo_name: parsdevkit/pars-docs
+edit_uri: edit/main/contents/
 docs_dir: contents
 nav:
   - Home: index.md
