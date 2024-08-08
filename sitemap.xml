@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.parsdevkit.net/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/conventions.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/conventions.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/advanced-usage/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/advanced-usage/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/commands.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/commands.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/enumerations.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/enumerations.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/groups.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/groups.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/paths.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/paths.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/resources.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/resources.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/templates.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/templates.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/workspaces.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/advanced-usage/autocompletion-and-filtering/workspaces.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/best-practices/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/best-practices/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/advanced/use-cases/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/advanced/use-cases/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/contributing/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/contributing/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/languages/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/languages/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/languages/csharp.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/languages/csharp.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/languages/go.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/languages/go.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/languages/javascript.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/languages/javascript.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/languages/typescript.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/languages/typescript.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/modules/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/modules/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/packages/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/packages/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/platforms/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/platforms/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/platforms/angular.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/platforms/angular.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/platforms/dotnet.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/platforms/dotnet.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/platforms/go.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/platforms/go.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/platforms/nodejs.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/platforms/nodejs.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/plugins/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/plugins/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extensions/providers/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extensions/providers/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/glossary.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/glossary.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/references.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/references.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/tags.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/tags.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/terms.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/terms.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/samples/application-project/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/samples/application-project/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/samples/application-project/angular-frontend.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/samples/application-project/angular-frontend.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/samples/application-project/basic-dotnet-webapi.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/samples/application-project/basic-dotnet-webapi.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/samples/application-project/dotnet-console.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/samples/application-project/dotnet-console.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/samples/application-project/microservices-architecture-with-multiple.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/samples/application-project/microservices-architecture-with-multiple.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/extras/samples/application-project/nodejs-microservice.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/extras/samples/application-project/nodejs-microservice.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/application-project.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/application-project.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/code-template.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/code-template.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/data-resource.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/data-resource.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/file-template.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/file-template.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/group.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/group.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/object-resource.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/object-resource.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/project.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/project.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/resource.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/resource.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/shared-template.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/shared-template.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/task.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/task.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/template.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/template.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/concept/workspace.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/concept/workspace.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/workflow/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/workflow/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/workflow/build-manager.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/workflow/build-manager.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/workflow/code-generation.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/workflow/code-generation.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/getting-started/workflow/project-organization.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/getting-started/workflow/project-organization.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/completion/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/completion/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/completion/bash.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/completion/bash.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/completion/fish.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/completion/fish.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/completion/powershell.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/completion/powershell.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/completion/zsh.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/completion/zsh.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/environment/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/environment/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/environment/list.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/environment/list.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/group/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/group/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/group/describe.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/group/describe.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/group/list.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/group/list.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/group/new-.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/group/new-.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/group/remove.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/group/remove.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/group/submit.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/group/submit.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/init/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/init/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/project/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/project/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/project/describe.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/project/describe.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/project/list.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/project/list.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/project/remove.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/project/remove.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/project/submit.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/project/submit.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/resource/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/resource/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/resource/list.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/resource/list.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/resource/remove.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/resource/remove.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/resource/submit.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/resource/submit.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/task/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/task/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/template/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/template/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/template/list.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/template/list.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/template/remove.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/template/remove.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/template/submit.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/template/submit.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/workspace/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/workspace/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/workspace/describe.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/workspace/describe.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/workspace/list.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/workspace/list.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/commands/workspace/remove.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/commands/workspace/remove.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/components/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/components/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/components/templates/context.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/components/templates/context.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/components/templates/functions.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/components/templates/functions.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/components/templates/syntax.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/components/templates/syntax.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/references/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/references/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/references/data-structures.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/references/data-structures.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/references/literals.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/references/literals.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/references/value-types.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/references/value-types.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/enum/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/enum/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/enum/logLevelEnum.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/enum/logLevelEnum.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/enum/workspaceViewTypesEnum.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/enum/workspaceViewTypesEnum.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/general/yaml-specifications.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/general/yaml-specifications.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/group/group-object-model.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/group/group-object-model.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/project/application-project-object-model.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/project/application-project-object-model.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/resource/data-resource-object-model.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/resource/data-resource-object-model.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/resource/data-type-object-model.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/resource/data-type-object-model.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/resource/object-resource-object-model.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/resource/object-resource-object-model.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/task/task-object-model.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/task/task-object-model.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/code-template-context-object.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/code-template-context-object.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/code-template-design.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/code-template-design.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/code-template-functions.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/code-template-functions.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/code-template-object-model.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/code-template-object-model.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/file-template-context-object.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/file-template-context-object.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/file-template-design.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/file-template-design.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/file-template-functions.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/file-template-functions.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/file-template-object-model.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/file-template-object-model.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/shared-template-context-object.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/shared-template-context-object.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/shared-template-design.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/shared-template-design.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/shared-template-functions.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/shared-template-functions.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/guides/schemas/object/template/shared-template-object-model.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/guides/schemas/object/template/shared-template-object-model.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/samples/files/group-models/001/readme.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/samples/files/group-models/001/readme.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/samples/files/resource-models/001/readme.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/samples/files/resource-models/001/readme.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/samples/files/template-models/001/readme.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/samples/files/template-models/001/readme.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/changelogs/index.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/changelogs/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/changelogs/v1.0.0.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/changelogs/v1.0.0.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/changelogs/v1.0.1.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/changelogs/v1.0.1.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/changelogs/v1.0.2.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/changelogs/v1.0.2.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/configuration/configuration.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/configuration/configuration.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/downloads/latest.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/downloads/latest.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/installation/installation.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/installation/installation.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/installation/uninstall.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/installation/uninstall.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/upgrade/upgrade-0xto1x.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/upgrade/upgrade-0xto1x.html"/>
+    </url>
+    <url>
+        <loc>https://docs.parsdevkit.net/setup/upgrade/upgrade.html</loc>
+        <lastmod>2024-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.parsdevkit.net/setup/upgrade/upgrade.html"/>
+    </url>
+</urlset>
